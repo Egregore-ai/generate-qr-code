@@ -19,8 +19,8 @@ A Python script that generates QR codes containing authentication data (URL and 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Egregore-ai/generate-qr-code
+cd generate-qr-code
 ```
 
 2. Install required packages:
